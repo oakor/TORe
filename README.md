@@ -1,5 +1,4 @@
-# Code for Knowledge Base Operation Recipe: A Knowledge Reconstruction Framework for
-KBQA Continual Learnin
+# Code for Knowledge Base Operation Recipe: A Knowledge Reconstruction Framework for KBQA Continual Learnin
 
 ## Data
 
