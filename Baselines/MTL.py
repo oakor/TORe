@@ -7,14 +7,14 @@ from peft import get_peft_model
 from tqdm import tqdm
 from train_base import Train_Base
 
-class Valinna(Train_Base):
+class MTL(Train_Base):
     def __init__(self, model_path, args):
         super().__init__(model_path)
         self.model = get_peft_model(self.model, self.peft_config)
         self.model.print_trainable_parameters()
         self.args = args
 
-    def valinna_train(self):
+    def mtl_train(self):
         os.makedirs(self.args.save_dir, exist_ok=True)
         os.makedirs(self.args.logs_dir, exist_ok=True)
 
@@ -57,5 +57,5 @@ if __name__ == '__main__':
     parser.add_argument('--save_dir', type=str, required=True)
     args = parser.parse_args()
 
-    valinna = Valinna('', args)
-    valinna.valinna_train()
+    mtl = MTL('', args)
+    mtl.mtl_train()
