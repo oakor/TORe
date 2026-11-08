@@ -2,8 +2,7 @@
 
 <p align="center">
   <!-- TODO: 替换下方占位链接。XXXX.XXXXX → arXiv 论文 ID；your-github/TORe → 你的 GitHub 仓库地址 -->
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/Paper-TORe-b31b1b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper"></a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://openreview.net/pdf?id=hPN07RTIPC"><img src="https://img.shields.io/badge/Paper-TORe-b31b1b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper"></a>
   <a href="https://github.com/oaker/TORe"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
 </p>
 
