@@ -57,10 +57,11 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{zhang2026tore,
-  title     = {TORe: Rehearsal-Free Continual Learning for Table QA via Operation Recipe Reconstruction},
-  author    = {Zhang, Jinyu and Liu, Ruiheng and Zhang, Yu},
-  booktitle = {Proceedings of the ...},   % TODO: 填入会议名 (e.g. EMNLP)
-  year      = {2026}
+  title={TORe: Rehearsal-Free Continual Learning for Table QA via Operation Recipe Reconstruction},
+  author={Zhang, Jinyu and Liu, Ruiheng and Zhang, Yu},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  pages={30069--30095},
+  year={2026}
 }
 ```
 
